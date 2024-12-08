@@ -54,4 +54,4 @@ Para usar este escáner mejorado:
 5. Sigue las instrucciones en pantalla para ingresar la dirección IP y seleccionar el rango de puertos.
 
 
-Recuerda que este escáner es más potente que el anterior, por lo que es aún más importante usarlo de manera ética y responsable. Úsalo solo en sistemas y redes para los que tengas permiso explícito.
+Este escáner es más potente, por lo que es aún más importante usarlo de manera ética y responsable. Úsalo solo en sistemas y redes para los que tengas permiso explícito.
