@@ -25,7 +25,7 @@ Advertencias importantes:
 3. Algunos firewalls o sistemas de seguridad pueden detectar y bloquear este tipo de escaneo.
 
 
-Este es un escáner básico y puede no detectar todos los puertos abiertos en sistemas más complejos o protegidos. Para un uso profesional, considera herramientas más avanzadas como Nmap.
+Este es un escáner potente pero basico y puede no detectar todos los puertos abiertos en sistemas más complejos o protegidos. Para un uso profesional, considera herramientas más avanzadas como Nmap.
 
 Para usar el código de manera segura y educativa:
 
